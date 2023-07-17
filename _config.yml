@@ -84,8 +84,8 @@ author:
   avatar           : "IMG_20220320_123028142_HDR.jpeg"
   bio              : "PDRA at University of Reading, UK"
   location         : "Reading, UK"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "University of Reading"
+  pubmed           : ""
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "p.r.teleti@reading.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
