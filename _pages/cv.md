@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - present: Post-Poctoral Research Assistant
+  * University of Reading, UK
+  * GloSAT project, NERC-funded,
+  * NCAS
 
 * Fall 2015: Research Assistant
   * Github University
